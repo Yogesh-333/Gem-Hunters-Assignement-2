@@ -1,4 +1,4 @@
-# Gem Hunters Assignement 2
+# Gem Hunters Assignement 2 💎
 
 Gem Hunters is a console-based 2D game where players compete to collect the most gems within a set number of turns on a 6x6 board filled with gems and obstacles.
 
@@ -11,14 +11,14 @@ Gem Hunters is a console-based 2D game where players compete to collect the most
 
 ## Game Overview
 
-- **Players**: 2 (Player 1 and Player 2)
-- **Board Size**: 6x6 grid
-- **Objective**: Collect the most gems within 15 turns per player (30 turns total).
+- **Players**: 2 (Player 1 and Player 2) 👥
+- **Board Size**: 6x6 grid 🏁
+- **Objective**: Collect the most gems within 15 turns per player (30 turns total).💰💸
 - **Game Elements**:
-  - Players: Player 1 starts in the top-left corner and Player 2 starts in the bottom-right corner.
-  - Gems: Randomly placed on the board at the start of the game.
-  - Obstacles: Randomly placed on the board at the start of the game, cannot be passed through.
-  - Winner: Player with more gems will consider as winner and tie is applicable when equal gem is collected.
+  - Players: Player 1 starts in the top-left corner and Player 2 starts in the bottom-right corner.🏃
+  - Gems: Randomly placed on the board at the start of the game.💎
+  - Obstacles: Randomly placed on the board at the start of the game, cannot be passed through.🥅
+- **Winner**: Player with more gems will consider as winner and tie is applicable when equal gem is collected.🏅🏆
 
 ## Installation
 
