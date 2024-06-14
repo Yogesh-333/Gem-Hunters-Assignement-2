@@ -18,16 +18,17 @@ Gem Hunters is a console-based 2D game where players compete to collect the most
   - Players: Player 1 starts in the top-left corner and Player 2 starts in the bottom-right corner.
   - Gems: Randomly placed on the board at the start of the game.
   - Obstacles: Randomly placed on the board at the start of the game, cannot be passed through.
+  - Winner: Player with more gems will consider as winner and tie is applicable when equal gem is collected.
 
 ## Installation
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/yourusername/gem-hunters.git
+    git clone https://github.com/Yogesh-333/Gem-Hunters-Assignement-2.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd gem-hunters
+    cd Gem-Hunters-Assignement-2
     ```
 3. Build the project using your preferred C# IDE (e.g., Visual Studio) or the .NET CLI:
     ```sh
