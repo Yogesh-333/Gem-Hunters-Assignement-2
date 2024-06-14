@@ -75,7 +75,7 @@ public class Board
             for (int j = 0; j < 6; j++)
             {
                 string occupant = Grid[i, j].Occupant;
-
+                Console.ForegroundColor = GetColor(occupant);
                 Console.Write(occupant + " ");
                 Console.ResetColor();
             }
@@ -94,6 +94,23 @@ public class Board
             return true;
 
         return false;
+    }
+
+    private ConsoleColor GetColor(string occupant)
+    {
+        switch (occupant)
+        {
+            case "P1":
+                return ConsoleColor.Green;
+            case "P2":
+                return ConsoleColor.Blue;
+            case "G":
+                return ConsoleColor.Yellow;
+            case "O":
+                return ConsoleColor.Red;
+            default:
+                return ConsoleColor.White;
+        }
     }
 
     public bool CollectGem(Player player, Position newPosition)

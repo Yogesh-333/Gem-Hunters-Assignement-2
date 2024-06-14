@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Conestoga\\Software programming - brasil\\Gem-Hunters-Assignement-2\\Gem Hunters\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{212BF0AA-0C5F-4EAC-AF40-101E78CF0BF9}|Gem Hunters\\Gem Hunters.csproj|d:\\conestoga\\software programming - brasil\\gem-hunters-assignement-2\\gem hunters\\gem hunters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{212BF0AA-0C5F-4EAC-AF40-101E78CF0BF9}|Gem Hunters\\Gem Hunters.csproj|solutionrelative:gem hunters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga\\Software programming - brasil\\Gem-Hunters-Assignement-2\\Gem Hunters\\Gem Hunters\\Position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gem Hunters\\Position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga\\Software programming - brasil\\Gem-Hunters-Assignement-2\\Gem Hunters\\Gem Hunters\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gem Hunters\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga\\Software programming - brasil\\Gem-Hunters-Assignement-2\\Gem Hunters\\Gem Hunters\\Cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gem Hunters\\Cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{212BF0AA-0C5F-4EAC-AF40-101E78CF0BF9}|Gem Hunters\\Gem Hunters.csproj|d:\\conestoga\\software programming - brasil\\gem-hunters-assignement-2\\gem hunters\\gem hunters\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212BF0AA-0C5F-4EAC-AF40-101E78CF0BF9}|Gem Hunters\\Gem Hunters.csproj|solutionrelative:gem hunters\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{212BF0AA-0C5F-4EAC-AF40-101E78CF0BF9}|Gem Hunters\\Gem Hunters.csproj|d:\\conestoga\\software programming - brasil\\gem-hunters-assignement-2\\gem hunters\\gem hunters\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{212BF0AA-0C5F-4EAC-AF40-101E78CF0BF9}|Gem Hunters\\Gem Hunters.csproj|solutionrelative:gem hunters\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{212BF0AA-0C5F-4EAC-AF40-101E78CF0BF9}|Gem Hunters\\Gem Hunters.csproj|d:\\conestoga\\software programming - brasil\\gem-hunters-assignement-2\\gem hunters\\gem hunters\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{212BF0AA-0C5F-4EAC-AF40-101E78CF0BF9}|Gem Hunters\\Gem Hunters.csproj|solutionrelative:gem hunters\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{212BF0AA-0C5F-4EAC-AF40-101E78CF0BF9}|Gem Hunters\\Gem Hunters.csproj|d:\\conestoga\\software programming - brasil\\gem-hunters-assignement-2\\gem hunters\\gem hunters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212BF0AA-0C5F-4EAC-AF40-101E78CF0BF9}|Gem Hunters\\Gem Hunters.csproj|solutionrelative:gem hunters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212BF0AA-0C5F-4EAC-AF40-101E78CF0BF9}|Gem Hunters\\Gem Hunters.csproj|d:\\conestoga\\software programming - brasil\\gem-hunters-assignement-2\\gem hunters\\gem hunters\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212BF0AA-0C5F-4EAC-AF40-101E78CF0BF9}|Gem Hunters\\Gem Hunters.csproj|solutionrelative:gem hunters\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212BF0AA-0C5F-4EAC-AF40-101E78CF0BF9}|Gem Hunters\\Gem Hunters.csproj|d:\\conestoga\\software programming - brasil\\gem-hunters-assignement-2\\gem hunters\\gem hunters\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212BF0AA-0C5F-4EAC-AF40-101E78CF0BF9}|Gem Hunters\\Gem Hunters.csproj|solutionrelative:gem hunters\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212BF0AA-0C5F-4EAC-AF40-101E78CF0BF9}|Gem Hunters\\Gem Hunters.csproj|d:\\conestoga\\software programming - brasil\\gem-hunters-assignement-2\\gem hunters\\gem hunters\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212BF0AA-0C5F-4EAC-AF40-101E78CF0BF9}|Gem Hunters\\Gem Hunters.csproj|solutionrelative:gem hunters\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,30 +34,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Game.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Gem-Hunters-Assignement-2\\Gem Hunters\\Gem Hunters\\Game.cs",
               "RelativeDocumentMoniker": "Gem Hunters\\Game.cs",
               "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Gem-Hunters-Assignement-2\\Gem Hunters\\Gem Hunters\\Game.cs",
               "RelativeToolTip": "Gem Hunters\\Game.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAGAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T23:26:50.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Board.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Gem-Hunters-Assignement-2\\Gem Hunters\\Gem Hunters\\Board.cs",
               "RelativeDocumentMoniker": "Gem Hunters\\Board.cs",
               "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Gem-Hunters-Assignement-2\\Gem Hunters\\Gem Hunters\\Board.cs",
               "RelativeToolTip": "Gem Hunters\\Board.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAYwGEAAAAAAAAA",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAgwHIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T23:25:33.589Z",
               "EditorCaption": ""
@@ -72,12 +72,11 @@
               "RelativeToolTip": "Gem Hunters\\Cell.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T23:25:11.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T23:25:11.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Player.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Gem-Hunters-Assignement-2\\Gem Hunters\\Gem Hunters\\Player.cs",
               "RelativeDocumentMoniker": "Gem Hunters\\Player.cs",
@@ -85,12 +84,11 @@
               "RelativeToolTip": "Gem Hunters\\Player.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T23:24:49.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T23:24:49.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Position.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Gem-Hunters-Assignement-2\\Gem Hunters\\Gem Hunters\\Position.cs",
               "RelativeDocumentMoniker": "Gem Hunters\\Position.cs",
@@ -98,12 +96,11 @@
               "RelativeToolTip": "Gem Hunters\\Position.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T23:23:25.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T23:23:25.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Gem-Hunters-Assignement-2\\Gem Hunters\\Gem Hunters\\Program.cs",
               "RelativeDocumentMoniker": "Gem Hunters\\Program.cs",
@@ -111,8 +108,7 @@
               "RelativeToolTip": "Gem Hunters\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T08:58:33.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T08:58:33.992Z"
             }
           ]
         }

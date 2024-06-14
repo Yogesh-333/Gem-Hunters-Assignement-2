@@ -22,7 +22,11 @@ public class Game
 
     public void Start()
     {
-
+        Console.WriteLine("Welcome to Gem Hunters!");
+        Console.WriteLine("Player 1: Green (P1)");
+        Console.WriteLine("Player 2: Blue (P2)");
+        Console.WriteLine("Gems: Yellow (G)");
+        Console.WriteLine("Obstacles: Red (O)");
         Console.WriteLine();
 
         while (!IsGameOver())
@@ -79,6 +83,8 @@ public class Game
 
     private void AnnounceWinner()
     {
+        Console.WriteLine($"Player 1 collected: {Player1.GemCount} gems");
+        Console.WriteLine($"Player 2 collected: {Player2.GemCount} gems");
 
         if (Player1.GemCount > Player2.GemCount)
             Console.WriteLine("Player 1 wins!");
