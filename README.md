@@ -8,6 +8,7 @@ Gem Hunters is a console-based 2D game where players compete to collect the most
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Classes and Structure](#classes-and-structure)
+- [Sample Output](#sample-output)
 
 ## Game Overview
 
