@@ -67,3 +67,9 @@ Gem Hunters is a console-based 2D game where players compete to collect the most
 - `Game.cs`: Defines the `Game` class.
 - `Program.cs`: Entry point of the application.
 
+### Sample Output
+
+- Initial Page
+  ![image](https://github.com/Yogesh-333/Gem-Hunters-Assignement-2/assets/69694320/e821cf1c-43f5-4cae-bb53-568a70bf759f)
+
+
