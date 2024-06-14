@@ -70,6 +70,16 @@ Gem Hunters is a console-based 2D game where players compete to collect the most
 ### Sample Output
 
 - Initial Page
+  
   ![image](https://github.com/Yogesh-333/Gem-Hunters-Assignement-2/assets/69694320/e821cf1c-43f5-4cae-bb53-568a70bf759f)
+
+- While collected some gems
+
+  ![image](https://github.com/Yogesh-333/Gem-Hunters-Assignement-2/assets/69694320/91d4b3f3-c8d9-4d7c-9103-0008a1a8b1e7)
+
+- After all gems are collected game ends
+
+  ![image](https://github.com/Yogesh-333/Gem-Hunters-Assignement-2/assets/69694320/d48eeb25-3a7a-4ad0-95b0-6ec25609e742)
+
 
 
