@@ -1,0 +1,15 @@
+D:\Conestoga\Software programming - brasil\Gem-Hunters-Assignement-2\Gem Hunters\Gem Hunters\bin\Debug\net8.0\Gem Hunters.exe
+D:\Conestoga\Software programming - brasil\Gem-Hunters-Assignement-2\Gem Hunters\Gem Hunters\bin\Debug\net8.0\Gem Hunters.deps.json
+D:\Conestoga\Software programming - brasil\Gem-Hunters-Assignement-2\Gem Hunters\Gem Hunters\bin\Debug\net8.0\Gem Hunters.runtimeconfig.json
+D:\Conestoga\Software programming - brasil\Gem-Hunters-Assignement-2\Gem Hunters\Gem Hunters\bin\Debug\net8.0\Gem Hunters.dll
+D:\Conestoga\Software programming - brasil\Gem-Hunters-Assignement-2\Gem Hunters\Gem Hunters\bin\Debug\net8.0\Gem Hunters.pdb
+D:\Conestoga\Software programming - brasil\Gem-Hunters-Assignement-2\Gem Hunters\Gem Hunters\obj\Debug\net8.0\Gem Hunters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Conestoga\Software programming - brasil\Gem-Hunters-Assignement-2\Gem Hunters\Gem Hunters\obj\Debug\net8.0\Gem Hunters.AssemblyInfoInputs.cache
+D:\Conestoga\Software programming - brasil\Gem-Hunters-Assignement-2\Gem Hunters\Gem Hunters\obj\Debug\net8.0\Gem Hunters.AssemblyInfo.cs
+D:\Conestoga\Software programming - brasil\Gem-Hunters-Assignement-2\Gem Hunters\Gem Hunters\obj\Debug\net8.0\Gem Hunters.csproj.CoreCompileInputs.cache
+D:\Conestoga\Software programming - brasil\Gem-Hunters-Assignement-2\Gem Hunters\Gem Hunters\obj\Debug\net8.0\Gem Hunters.sourcelink.json
+D:\Conestoga\Software programming - brasil\Gem-Hunters-Assignement-2\Gem Hunters\Gem Hunters\obj\Debug\net8.0\Gem Hunters.dll
+D:\Conestoga\Software programming - brasil\Gem-Hunters-Assignement-2\Gem Hunters\Gem Hunters\obj\Debug\net8.0\refint\Gem Hunters.dll
+D:\Conestoga\Software programming - brasil\Gem-Hunters-Assignement-2\Gem Hunters\Gem Hunters\obj\Debug\net8.0\Gem Hunters.pdb
+D:\Conestoga\Software programming - brasil\Gem-Hunters-Assignement-2\Gem Hunters\Gem Hunters\obj\Debug\net8.0\Gem Hunters.genruntimeconfig.cache
+D:\Conestoga\Software programming - brasil\Gem-Hunters-Assignement-2\Gem Hunters\Gem Hunters\obj\Debug\net8.0\ref\Gem Hunters.dll
